@@ -3,7 +3,7 @@
     $port = '3306';
     $user = 'root';
     $pass = 'mysql';
-    $dbname = 'mario_jump';
+    $dbname = 'yoshi_jump';
 
 try {
     
